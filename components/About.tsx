@@ -3,7 +3,7 @@ import { IconCloudDemo } from './ui/cloud';
 
 const About = () => {
   return (
-    <section className="max-w-5xl mx-auto py-24" id="about">
+    <section className="max-w-5xl mx-auto py-24 relative" id="about">
       {/* Title */}
       <div className="text-4xl font-bold max-md:text-center">About Me</div>
 
