@@ -34,7 +34,7 @@ export function AnimatedGridPatternDemo() {
     <a href="https://x.com/Elliot_alien" className="text-3xl"><FaSquareXTwitter /></a>
     <a href="https://www.instagram.com/elliot_alien_" className="text-3xl"> <FaInstagram /></a>
     <a href="https://github.com/elliotalien" className="text-3xl"><FaGithubSquare /></a>
-    <a href="www.linkedin.com/in/abhijith-in" className="text-3xl"><FaLinkedin /></a>
+    <a href="https://www.linkedin.com/in/abhijith-in" className="text-3xl"><FaLinkedin /></a>
 
   </nav>
 </footer>
