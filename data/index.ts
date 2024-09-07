@@ -16,7 +16,7 @@ export const projects = [
     title: "Anonymous-Blog",
     description: "A blog application that allows users to create and publish posts with a clean and intuitive interface.",
     link: "https://elliotalien.github.io/Anonymous-Blog/",
-    techIcons: ["FaReact", "FaHtml5", "SiW3Schools","FaCss3Alt","SiMongodb","FaNode" ,"IoLogoJavascript"] as IconName[], 
+    techIcons: ["FaReact", "FaHtml5", "SiW3Schools","SiMongodb","FaNode" ,"IoLogoJavascript"] as IconName[], 
   },
   {
     imageurl: "/images/Ems.jpg",
