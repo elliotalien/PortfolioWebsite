@@ -5,7 +5,7 @@ export function Projectcard() {
   return (
 
     <div className=" max-w-5xl mx-auto py-24" id='projects'>
-      <div className='text-4xl max-md:text-center'>I've been building a lot of things</div>
+      <div className='text-4xl max-md:text-center'>I&apos;ve been building a lot of things</div>
       <div className="max-w-5xl mx-auto px-8">
         <HoverEffect items={projects} />
       </div>
