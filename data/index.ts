@@ -20,10 +20,10 @@ export const projects = [
   },
   {
     imageurl: "/images/Ems.jpg",
-    title: "EmployeeManagementSystem",
+    title: "EmployeeManagement",
     description: "An employee management system with CRUD operations, login/sign-up, and OTP verification for secure user authentication and data handling.",
     link: "https://node-project-swt9.onrender.com/",
-    techIcons: ["FaHtml5", "FaCss3Alt","FaBootstrap","FaNode" ,"IoLogoJavascript","SiExpress","SiMongodb"] as IconName[], 
+    techIcons: ["FaHtml5","FaBootstrap","FaNode" ,"IoLogoJavascript","SiExpress","SiMongodb"] as IconName[], 
   },
   {
     imageurl: "/images/Routex.jpg",
