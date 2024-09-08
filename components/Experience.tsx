@@ -3,7 +3,7 @@ import React from 'react'
 
 const Experience = () => {
     return (
-        <div className=" max-w-5xl mx-auto py-24" id='experience'>
+        <div className=" max-w-5xl mx-auto py-24 relative" id='experience'>
             <div className='text-4xl max-md:text-center'>Work Experience</div>
 
             <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical py-16">
