@@ -37,7 +37,7 @@ const Hero = () => {
                     </p>
 
                     <div className='flex gap-x-5'>
-                        <a href="mailto:manuabhijith08@gmail.com"><MagicButton title="Let's get in touch" icon={<FaLocationArrow />} position="right" /> </a>
+                        <a href="#contact"><MagicButton title="Let's get in touch" icon={<FaLocationArrow />} position="right" /> </a>
                         <a href="/Abhijith.pdf" download><MagicButton title="Download CV"  icon={<MdFileDownload />} position="right" /></a>
                     </div>
                 </div>
